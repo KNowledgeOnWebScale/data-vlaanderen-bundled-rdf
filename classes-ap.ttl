@@ -11741,10 +11741,6 @@
     shacl:targetClass xsd:anyURI.
 <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#UriShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#VoertuigShape> a shacl:NodeShape;
-    shacl:targetClass schema:Vehicle.
-<https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#VoertuigShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#VoertuigtypeShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/zaalreservatie#Voertuigtype>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#VoertuigtypeShape>.
