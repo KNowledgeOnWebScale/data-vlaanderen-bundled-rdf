@@ -3837,406 +3837,206 @@
     shacl:targetClass <http://def.isotc211.org/iso19157/2013/DataQuality_2#DQ_Completeness>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2023-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2023-06-01#VolledigheidShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2023-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AandoeningShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AandoeningShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Aandoening>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AandoeningShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AandoeningtypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AandoeningShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AandoeningtypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AandoeningtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AgentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AandoeningtypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AgentrelatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AgentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AgentrelatieShape> a shacl:NodeShape;
     shacl:targetClass generiek:Agentrelatie.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AgentrelatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergeenShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AgentrelatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergeenShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Allergeen>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergeenShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergeentypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergeenShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergeentypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergeentypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergeentypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergieShape> a shacl:NodeShape;
     shacl:targetClass <http://hl7.org/fhir/StructureDefinition/AllergyIntolerance>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergietypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergietypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#AllergietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BeperkingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#AllergietypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BeperkingShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Beperking>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BeperkingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BeperkingtypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BeperkingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BeperkingtypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BeperkingtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BeëindigingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BeperkingtypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BeëindigingShape> a shacl:NodeShape;
     shacl:targetClass prov:End.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BeëindigingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BooleanShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BeëindigingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BooleanShape> a shacl:NodeShape;
     shacl:targetClass xsd:boolean.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#BooleanShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ContactinfoShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#BooleanShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ContactinfoShape> a shacl:NodeShape;
     shacl:targetClass m8g:ContactPoint.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ContactinfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DateShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ContactinfoShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DateShape> a shacl:NodeShape;
     shacl:targetClass xsd:date.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DateShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DatetimeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DateShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DatetimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:dateTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DatetimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DieetvoorkeurShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DatetimeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DieetvoorkeurShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Dieetvoorkeur>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DieetvoorkeurShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DieetvoorkeurtypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DieetvoorkeurShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DieetvoorkeurtypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DieetvoorkeurtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DienstaanbodShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DieetvoorkeurtypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DienstaanbodShape> a shacl:NodeShape;
     shacl:targetClass <http://purl.org/vocab/cpsv#PublicService>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DienstaanbodShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DienstconsumptieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DienstaanbodShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DienstconsumptieShape> a shacl:NodeShape;
     shacl:targetClass <http://purl.org/vocab/cpsv#PublicService>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DienstconsumptieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DurationShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DienstconsumptieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DurationShape> a shacl:NodeShape;
     shacl:targetClass xsd:duration.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#DurationShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ErnsttypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#DurationShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ErnsttypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ErnsttypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GeregistreerdPersoonShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ErnsttypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GeregistreerdPersoonShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/persoon#GeregistreerdPersoon>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GeregistreerdPersoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GeregistreerdeOrganisatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GeregistreerdPersoonShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GeregistreerdeOrganisatieShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/ns/regorg#RegisteredOrganization>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GeregistreerdeOrganisatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GeslachtShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GeregistreerdeOrganisatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GeslachtShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GeslachtShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GezondheidstoestandShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GeslachtShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GezondheidstoestandShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand#Gezondheidstoestand>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#GezondheidstoestandShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#InschrijvingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#GezondheidstoestandShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#InschrijvingShape> a shacl:NodeShape;
     shacl:targetClass prov:Start.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#InschrijvingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#IntegerShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#InschrijvingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#IntegerShape> a shacl:NodeShape;
     shacl:targetClass xsd:integer.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#IntegerShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#JuridischWerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#IntegerShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#JuridischWerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/wetgeving#JuridischWerk>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#JuridischWerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#KenmerktypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#JuridischWerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#KenmerktypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#KenmerktypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#MedicatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#KenmerktypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#MedicatieShape> a shacl:NodeShape;
     shacl:targetClass <http://hl7.org/fhir/StructureDefinition/Medication>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#MedicatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#MedicatietypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#MedicatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#MedicatietypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#MedicatietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#OrganisatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#MedicatietypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#OrganisatieShape> a shacl:NodeShape;
     shacl:targetClass org:Organization.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#OrganisatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ParticipatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#OrganisatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ParticipatieShape> a shacl:NodeShape;
     shacl:targetClass m8g:Participation.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ParticipatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ParticipatierolShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ParticipatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ParticipatierolShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ParticipatierolShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PeriodeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ParticipatierolShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PeriodeShape> a shacl:NodeShape;
     shacl:targetClass m8g:PeriodOfTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PeriodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PersoonShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PeriodeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PersoonShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/ns/person#Person>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PersoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PersoonsrelatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PersoonShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PersoonsrelatieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/persoon#Persoonsrelatie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PersoonsrelatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PersoonsrelatietypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PersoonsrelatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PersoonsrelatietypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#PersoonsrelatietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ReactietypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#PersoonsrelatietypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ReactietypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ReactietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#RelatietypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ReactietypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#RelatietypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#RelatietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#SocioEconomischKenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#RelatietypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#SocioEconomischKenmerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/statistiek#Statistiek>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#SocioEconomischKenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#SpecifiekeBehoefteShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#SocioEconomischKenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#SpecifiekeBehoefteShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#SpecifiekeBehoefte>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#SpecifiekeBehoefteShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#StringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#SpecifiekeBehoefteShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#StringShape> a shacl:NodeShape;
     shacl:targetClass xsd:string.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#StringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#TaalCodeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#StringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#TaalCodeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#TaalCodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#TijdschemaShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#TaalCodeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#TijdschemaShape> a shacl:NodeShape;
     shacl:targetClass schemas:Schedule.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#TijdschemaShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#TimeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#TijdschemaShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#TimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:time.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#TimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ToedieningtypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#TimeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ToedieningtypeShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#ToedieningtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#UitgangregelingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#ToedieningtypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#UitgangregelingShape> a shacl:NodeShape;
     shacl:targetClass prov:Association.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#UitgangregelingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#UriShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#UitgangregelingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#UriShape> a shacl:NodeShape;
     shacl:targetClass xsd:anyURI.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#UriShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#VestigingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#UriShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#VestigingShape> a shacl:NodeShape;
     shacl:targetClass org:Site.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4#VestigingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AandoeningShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Aandoening>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AandoeningShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AandoeningtypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AandoeningtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AgentShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AgentrelatieShape> a shacl:NodeShape;
-    shacl:targetClass generiek:Agentrelatie.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AgentrelatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergeenShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Allergeen>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergeenShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergeentypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergeentypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergieShape> a shacl:NodeShape;
-    shacl:targetClass <http://hl7.org/fhir/StructureDefinition/AllergyIntolerance>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergietypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/AllergietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BeperkingShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Beperking>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BeperkingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BeperkingtypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BeperkingtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BeëindigingShape> a shacl:NodeShape;
-    shacl:targetClass prov:End.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BeëindigingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BooleanShape> a shacl:NodeShape;
-    shacl:targetClass xsd:boolean.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/BooleanShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ContactinfoShape> a shacl:NodeShape;
-    shacl:targetClass m8g:ContactPoint.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ContactinfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DateShape> a shacl:NodeShape;
-    shacl:targetClass xsd:date.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DateShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DatetimeShape> a shacl:NodeShape;
-    shacl:targetClass xsd:dateTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DatetimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DieetvoorkeurShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#Dieetvoorkeur>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DieetvoorkeurShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DieetvoorkeurtypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DieetvoorkeurtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DienstaanbodShape> a shacl:NodeShape;
-    shacl:targetClass <http://purl.org/vocab/cpsv#PublicService>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DienstaanbodShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DienstconsumptieShape> a shacl:NodeShape;
-    shacl:targetClass <http://purl.org/vocab/cpsv#PublicService>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DienstconsumptieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DurationShape> a shacl:NodeShape;
-    shacl:targetClass xsd:duration.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/DurationShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ErnsttypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ErnsttypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GeregistreerdPersoonShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/persoon#GeregistreerdPersoon>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GeregistreerdPersoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GeregistreerdeOrganisatieShape> a shacl:NodeShape;
-    shacl:targetClass <http://www.w3.org/ns/regorg#RegisteredOrganization>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GeregistreerdeOrganisatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GeslachtShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GeslachtShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GezondheidstoestandShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand#Gezondheidstoestand>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/GezondheidstoestandShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/InschrijvingShape> a shacl:NodeShape;
-    shacl:targetClass prov:Start.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/InschrijvingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/IntegerShape> a shacl:NodeShape;
-    shacl:targetClass xsd:integer.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/IntegerShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/JuridischWerkShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/wetgeving#JuridischWerk>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/JuridischWerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/KenmerktypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/KenmerktypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/MedicatieShape> a shacl:NodeShape;
-    shacl:targetClass <http://hl7.org/fhir/StructureDefinition/Medication>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/MedicatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/MedicatietypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/MedicatietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/OrganisatieShape> a shacl:NodeShape;
-    shacl:targetClass org:Organization.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/OrganisatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ParticipatieShape> a shacl:NodeShape;
-    shacl:targetClass m8g:Participation.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ParticipatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ParticipatierolShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ParticipatierolShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PeriodeShape> a shacl:NodeShape;
-    shacl:targetClass m8g:PeriodOfTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PeriodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PersoonShape> a shacl:NodeShape;
-    shacl:targetClass <http://www.w3.org/ns/person#Person>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PersoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PersoonsrelatieShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/persoon#Persoonsrelatie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PersoonsrelatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PersoonsrelatietypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/PersoonsrelatietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ReactietypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ReactietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/RelatietypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/RelatietypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/SocioEconomischKenmerkShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/statistiek#Statistiek>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/SocioEconomischKenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/SpecifiekeBehoefteShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/gezondheidstoestand/#SpecifiekeBehoefte>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/SpecifiekeBehoefteShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/StringShape> a shacl:NodeShape;
-    shacl:targetClass xsd:string.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/StringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/TaalCodeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/TaalCodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/TijdschemaShape> a shacl:NodeShape;
-    shacl:targetClass schemas:Schedule.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/TijdschemaShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/TimeShape> a shacl:NodeShape;
-    shacl:targetClass xsd:time.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/TimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ToedieningtypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/ToedieningtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/UitgangregelingShape> a shacl:NodeShape;
-    shacl:targetClass prov:Association.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/UitgangregelingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/UriShape> a shacl:NodeShape;
-    shacl:targetClass xsd:anyURI.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/UriShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/VestigingShape> a shacl:NodeShape;
-    shacl:targetClass org:Site.
-<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4/VestigingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/toolchain4>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10#VestigingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/ontwerpstandaard/2025-07-10>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/dossier/erkendestandaard/2023-09-25#ActiviteitContextShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/dossier#ActiviteitContext>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/dossier/erkendestandaard/2023-09-25> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/dossier/erkendestandaard/2023-09-25#ActiviteitContextShape>.
@@ -8937,6 +8737,10 @@
     shacl:targetClass xsd:dateTime.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DatetimeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DocumentShape> a shacl:NodeShape;
+    shacl:targetClass foaf:Document.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DocumentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#EenheidShape> a shacl:NodeShape;
     shacl:targetClass <https://qudt.org/schema/qudt/Unit>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#EenheidShape>.
@@ -9073,10 +8877,6 @@
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijn>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijninventarisShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijninventaris>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijninventarisShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnkenmerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijnkenmerk>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnkenmerkShape>.
@@ -9084,6 +8884,10 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplanShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijnplan>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplanShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplaninventarisShape> a shacl:NodeShape;
+    shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijnplaninventaris>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplaninventarisShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RuimtelijkeEenheidShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/perceel#RuimtelijkeEenheid>.
@@ -10573,6 +10377,14 @@
     shacl:targetClass dcterms:Agent.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#AgentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#AnyShape> a shacl:NodeShape;
+    shacl:targetClass rdfs:Resource.
+<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#AnyShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#BenoemdewaardeShape> a shacl:NodeShape;
+    shacl:targetClass schemas:StructuredValue.
+<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#BenoemdewaardeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#Bim_elementShape> a shacl:NodeShape;
     shacl:targetClass <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2_TC1/OWL#IfcElement>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#Bim_elementShape>.
@@ -10584,10 +10396,6 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#CameraShape> a shacl:NodeShape;
     shacl:targetClass <http://dbpedia.org/ontology/Camera>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#CameraShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ClassificatieShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19156/2011/CategoryObservation#OM_CategoryObservation>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ClassificatieShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ConceptShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
@@ -10613,10 +10421,6 @@
     shacl:targetClass sosa:Deployment.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#DeploymentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#DomeinobjectShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19156/2011/GeneralFeatureInstance#GFI_DomainFeature>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#DomeinobjectShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#EenheidShape> a shacl:NodeShape;
     shacl:targetClass <https://qudt.org/schema/qudt/Unit>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#EenheidShape>.
@@ -10641,10 +10445,6 @@
     shacl:targetClass locn:Geometry.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#GeometrieShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#GeometrieobservatieShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19156/2011/GeometryObservation#OM_GeometryObservation>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#GeometrieobservatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#GnssOntvangerShape> a shacl:NodeShape;
     shacl:targetClass <https://www.fair-gnss.oma.be/gnss-dcat-ap/vocabulary/geo#GNSSReceiver>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#GnssOntvangerShape>.
@@ -10662,7 +10462,7 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#InputShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#InterpretatieShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/nodem-en-ondergrond#Interpretatie>.
+    shacl:targetClass <https://data.vlaanderen.be/ns/bodem-en-ondergrond#Interpretatie>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#InterpretatieShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#KenmerkShape> a shacl:NodeShape;
@@ -10684,10 +10484,6 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#MachinelearningModelShape> a shacl:NodeShape;
     shacl:targetClass <http://data.europa.eu/it6/MachineLearningModel>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#MachinelearningModelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#MetingShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19156/2011/Measurement#OM_Measurement>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#MetingShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#MomentShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#Instant>.
@@ -10714,7 +10510,7 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ObserveerbaarkenmerkShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#OpstellingShape> a shacl:NodeShape;
-    shacl:targetClass <http://dbpedia.org/ontology/ArchitecturalStructure>.
+    shacl:targetClass <https://w3id.org/okn/o/sd#ConfigurationSetup>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#OpstellingShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#OutputShape> a shacl:NodeShape;
@@ -10736,10 +10532,6 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#PlatformShape> a shacl:NodeShape;
     shacl:targetClass <https://www.w3.org/ns/sosa/Platform>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#PlatformShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#RechtenShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:RightsStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#RechtenShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#SensorShape> a shacl:NodeShape;
     shacl:targetClass <https://www.w3.org/ns/sosa/Sensor>.
