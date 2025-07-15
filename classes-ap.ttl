@@ -10461,10 +10461,6 @@
     shacl:targetClass ssn:Input.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#InputShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#InterpretatieShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/bodem-en-ondergrond#Interpretatie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#InterpretatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#KenmerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/energiehuis#Kenmerk>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#KenmerkShape>.
@@ -10498,7 +10494,7 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ObservatieShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ObservatieprocedureShape> a shacl:NodeShape;
-    shacl:targetClass <http://www.w3.org/ns/sosa/oms/ObservingProcedure>.
+    shacl:targetClass sosa:ObservingProcedure.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ObservatieprocedureShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse/kandidaatstandaard/2025-05-22#ObservatieverzamelingShape> a shacl:NodeShape;
