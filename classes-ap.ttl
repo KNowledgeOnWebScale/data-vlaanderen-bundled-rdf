@@ -4325,182 +4325,182 @@
     shacl:targetClass <https://data.vlaanderen.be/ns/energiehuis#WoonEnEnergieloket>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/erkendestandaard/2025-06-19> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/erkendestandaard/2025-06-19#WoonenenergieloketShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/erkendestandaard/2025-06-19>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansluitingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansluitingShape> a shacl:NodeShape;
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#Connection>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansluitingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansturingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansluitingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansturingShape> a shacl:NodeShape;
     shacl:targetClass sosa:Actuation.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansturingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansturingsprocedureShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansturingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansturingsprocedureShape> a shacl:NodeShape;
     shacl:targetClass sosa:Procedure.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansturingsprocedureShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansturingssysteemShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansturingsprocedureShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansturingssysteemShape> a shacl:NodeShape;
     shacl:targetClass sosa:Actuator.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AansturingssysteemShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AanstuurbaarkenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AansturingssysteemShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AanstuurbaarkenmerkShape> a shacl:NodeShape;
     shacl:targetClass sosa:Property.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AanstuurbaarkenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AdresvoorstellingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AanstuurbaarkenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AdresvoorstellingShape> a shacl:NodeShape;
     shacl:targetClass locn:Address.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AdresvoorstellingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AgentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AdresvoorstellingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#BenoemdewaardeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#AgentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#BenoemdewaardeShape> a shacl:NodeShape;
     shacl:targetClass schemas:StructuredValue.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#BenoemdewaardeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ConceptShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#BenoemdewaardeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ConceptShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ConceptShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ContactinfoShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ConceptShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ContactinfoShape> a shacl:NodeShape;
     shacl:targetClass schema:ContactPoint.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ContactinfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#DatetimeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ContactinfoShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#DatetimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:dateTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#DatetimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#DeploymentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#DatetimeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#DeploymentShape> a shacl:NodeShape;
     shacl:targetClass sosa:Deployment.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#DeploymentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#EenheidShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#DeploymentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#EenheidShape> a shacl:NodeShape;
     shacl:targetClass <https://qudt.org/schema/qudt/Unit>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#EenheidShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#FunctieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#EenheidShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#FunctieShape> a shacl:NodeShape;
     shacl:targetClass <https://saref.etsi.org/core/Function>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#FunctieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#GeometrieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#FunctieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#GeometrieShape> a shacl:NodeShape;
     shacl:targetClass locn:Geometry.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#GeometrieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#IdentificatorShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#GeometrieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#IdentificatorShape> a shacl:NodeShape;
     shacl:targetClass adms:Identifier.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#IdentificatorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#InputShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#IdentificatorShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#InputShape> a shacl:NodeShape;
     shacl:targetClass ssn:Input.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#InputShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#KwantitatievewaardeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#InputShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#KwantitatievewaardeShape> a shacl:NodeShape;
     shacl:targetClass schemas:QuantitativeValue.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#KwantitatievewaardeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#LangstringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#KwantitatievewaardeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#LangstringShape> a shacl:NodeShape;
     shacl:targetClass rdf:langString.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#LangstringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#LiteralShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#LangstringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#LiteralShape> a shacl:NodeShape;
     shacl:targetClass rdfs:Literal.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#LiteralShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#MachinelearningModelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#LiteralShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#MachinelearningModelShape> a shacl:NodeShape;
     shacl:targetClass <http://data.europa.eu/it6/MachineLearningModel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#MachinelearningModelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#MeterShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#MachinelearningModelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#MeterShape> a shacl:NodeShape;
     shacl:targetClass <https://saref.etsi.org/core/Meter>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#MeterShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#MomentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#MeterShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#MomentShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#Instant>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#MomentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#NutsvoorzieningnetwerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#MomentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#NutsvoorzieningnetwerkShape> a shacl:NodeShape;
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#UtilityNetwork>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#NutsvoorzieningnetwerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObjectShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#NutsvoorzieningnetwerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObjectShape> a shacl:NodeShape;
     shacl:targetClass sosa:FeatureOfInterest.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObjectShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObservatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObjectShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObservatieShape> a shacl:NodeShape;
     shacl:targetClass sosa:Observation.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObservatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObservatieprocedureShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObservatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObservatieprocedureShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/ns/sosa/oms/ObservingProcedure>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObservatieprocedureShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObservatieverzamelingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObservatieprocedureShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObservatieverzamelingShape> a shacl:NodeShape;
     shacl:targetClass sosa:ObservationCollection.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObservatieverzamelingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObserveerbaarkenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObservatieverzamelingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObserveerbaarkenmerkShape> a shacl:NodeShape;
     shacl:targetClass sosa:Property.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ObserveerbaarkenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#OrganisatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ObserveerbaarkenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#OrganisatieShape> a shacl:NodeShape;
     shacl:targetClass org:Organization.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#OrganisatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#OutputShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#OrganisatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#OutputShape> a shacl:NodeShape;
     shacl:targetClass ssn:Output.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#OutputShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PeriodeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#OutputShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PeriodeShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#ProperInterval>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PeriodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PersoonShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PeriodeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PersoonShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/ns/person#Person>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PersoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PlatformShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PersoonShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PlatformShape> a shacl:NodeShape;
     shacl:targetClass <https://www.w3.org/ns/sosa/Platform>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PlatformShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ProcedureShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PlatformShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ProcedureShape> a shacl:NodeShape;
     shacl:targetClass sosa:Procedure.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ProcedureShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PuntShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ProcedureShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PuntShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#Point>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#PuntShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#SensorShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#PuntShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#SensorShape> a shacl:NodeShape;
     shacl:targetClass <https://www.w3.org/ns/sosa/Sensor>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#SensorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#StringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#SensorShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#StringShape> a shacl:NodeShape;
     shacl:targetClass xsd:string.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#StringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#SysteemShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#StringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#SysteemShape> a shacl:NodeShape;
     shacl:targetClass ssn:System.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#SysteemShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#TaakShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#SysteemShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#TaakShape> a shacl:NodeShape;
     shacl:targetClass <https://saref.etsi.org/core/Task>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#TaakShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#TemporeleentiteitShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#TaakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#TemporeleentiteitShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#TemporalEntity>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#TemporeleentiteitShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ToebehorenShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#TemporeleentiteitShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ToebehorenShape> a shacl:NodeShape;
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#Appurtenance>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ToebehorenShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ToestelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ToebehorenShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ToestelShape> a shacl:NodeShape;
     shacl:targetClass <https://saref.etsi.org/core/Device>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#ToestelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#UriShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#ToestelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#UriShape> a shacl:NodeShape;
     shacl:targetClass xsd:anyURI.
-<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14#UriShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-05-14>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#UriShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ActuatieShape> a shacl:NodeShape;
     shacl:targetClass sosa:Actuation.
 <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ActuatieShape>.
@@ -8137,21 +8137,37 @@
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#Connection>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AansluitingShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AcitiviteitShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ActiviteitShape> a shacl:NodeShape;
     shacl:targetClass prov:Activity.
-<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AcitiviteitShape>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ActiviteitShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AdresvoorstellingShape> a shacl:NodeShape;
+    shacl:targetClass locn:Address.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AdresvoorstellingShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AgentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AnyShape> a shacl:NodeShape;
+    shacl:targetClass rdfs:Resource.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AnyShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AssetShape> a shacl:NodeShape;
     shacl:targetClass adms:Asset.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#AssetShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#BenoemdewaardeShape> a shacl:NodeShape;
+    shacl:targetClass schemas:StructuredValue.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#BenoemdewaardeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ContactinfoShape> a shacl:NodeShape;
     shacl:targetClass schema:ContactPoint.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ContactinfoShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#CurveShape> a shacl:NodeShape;
+    shacl:targetClass <http://www.opengis.net/ont/geosparql#Curve>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#CurveShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#DatetimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:dateTime.
@@ -8161,17 +8177,25 @@
     shacl:targetClass sosa:Deployment.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#DeploymentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#DomeinobjectShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19156/2011GeneralFeatureInstance#GFI_DomainFeature>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#DomeinobjectShape>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#EenheidShape> a shacl:NodeShape;
+    shacl:targetClass <http://qudt.org/schema/qudt/Unit>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#EenheidShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#FactuurShape> a shacl:NodeShape;
     shacl:targetClass schemas:Invoice.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#FactuurShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#FunctieShape> a shacl:NodeShape;
+    shacl:targetClass <https://saref.etsi.org/core/Function>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#FunctieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#GeaggregeerdverbruikobservatieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/nutsvoorzieningen/meters#GeaggregeerdVerbruikObservatie>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#GeaggregeerdverbruikobservatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#GeometrieShape> a shacl:NodeShape;
+    shacl:targetClass locn:Geometry.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#GeometrieShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#IdentificatorShape> a shacl:NodeShape;
     shacl:targetClass adms:Identifier.
@@ -8185,13 +8209,21 @@
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#Cabinet>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KastShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KenmerktypeShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19109/2005/GeneralFeatureModel#GF_PropertyType>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KenmerktypeShape>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KnoopShape> a shacl:NodeShape;
+    shacl:targetClass <https://vocab.belgif.be/ns/network#Node>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KnoopShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KwantitatievewaardeShape> a shacl:NodeShape;
+    shacl:targetClass <https://qudt.org/schema/qudt/QuantityValue>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#KwantitatievewaardeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#LangstringShape> a shacl:NodeShape;
     shacl:targetClass rdf:langString.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#LangstringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#LinkShape> a shacl:NodeShape;
+    shacl:targetClass <https://vocab.belgif.be/ns/network#Link>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#LinkShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#LiteralShape> a shacl:NodeShape;
     shacl:targetClass rdfs:Literal.
@@ -8213,6 +8245,10 @@
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#UtilityNodeContainer>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#NutsvoorzieningknoopcontainerShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#NutsvoorzieninglinkShape> a shacl:NodeShape;
+    shacl:targetClass <https://vocab.belgif.be/ns/utility-services#UtilityLink>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#NutsvoorzieninglinkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#NutsvoorzieningnetwerkShape> a shacl:NodeShape;
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#UtilityNetwork>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#NutsvoorzieningnetwerkShape>.
@@ -8221,13 +8257,25 @@
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#UtilityNetworkElement>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#NutsvoorzieningnetwerkelementShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ObjectShape> a shacl:NodeShape;
+    shacl:targetClass sosa:FeatureOfInterest.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ObjectShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ObservatieShape> a shacl:NodeShape;
-    shacl:targetClass <http://def.isotc211.org/iso19156/2011/Observation#OM_Observation>.
+    shacl:targetClass sosa:Observation.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ObservatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ObserveerbaarkenmerkShape> a shacl:NodeShape;
+    shacl:targetClass sosa:Property.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ObserveerbaarkenmerkShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#OrganisatieShape> a shacl:NodeShape;
     shacl:targetClass org:Organization.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#OrganisatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#OverlevingscapaciteitShape> a shacl:NodeShape;
+    shacl:targetClass <http://www.w3.org/ns/ssn/systems/SurvivalRange>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#OverlevingscapaciteitShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PeriodeShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#ProperInterval>.
@@ -8237,9 +8285,17 @@
     shacl:targetClass <http://www.w3.org/ns/person#Person>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PersoonShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PlaatsShape> a shacl:NodeShape;
+    shacl:targetClass dcterms:Location.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PlaatsShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PlatformShape> a shacl:NodeShape;
     shacl:targetClass <https://www.w3.org/ns/sosa/Platform>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PlatformShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PuntShape> a shacl:NodeShape;
+    shacl:targetClass <http://www.opengis.net/ont/sf#Point>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#PuntShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ReservatieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/cultuur-en-jeugd/infrastructuur#Reservatie>.
@@ -8257,13 +8313,29 @@
     shacl:targetClass ssn:System.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#SysteemShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#SysteemvermogenShape> a shacl:NodeShape;
+    shacl:targetClass <http://www.w3.org/ns/ssn/systems/SystemCapacity>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#SysteemvermogenShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#TaakShape> a shacl:NodeShape;
+    shacl:targetClass <https://saref.etsi.org/core/Task>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#TaakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#TemporeleentiteitShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#TemporalEntity>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#TemporeleentiteitShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ToebehorenShape> a shacl:NodeShape;
+    shacl:targetClass <https://vocab.belgif.be/ns/utility-services#Appurtenance>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ToebehorenShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ToestelShape> a shacl:NodeShape;
     shacl:targetClass <https://saref.etsi.org/core/Device>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#ToestelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#WerkingsbereikShape> a shacl:NodeShape;
+    shacl:targetClass <http://www.w3.org/ns/ssn/systems/OperatingRange>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03#WerkingsbereikShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/ontwerpstandaard/2025-06-03>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/overlijdensaangifte/erkendestandaard/2024-12-05/AardoverlijdenShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
@@ -11624,6 +11696,10 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#LocatieShape> a shacl:NodeShape;
     shacl:targetClass prov:Location.
 <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#LocatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#MomentShape> a shacl:NodeShape;
+    shacl:targetClass <http://www.w3.org/2006/time#Instant>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#MomentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/ontwerpstandaard/2025-04-18#OpeningsurenspecificatieShape> a shacl:NodeShape;
     shacl:targetClass schemas:OpeningHoursSpecification.
