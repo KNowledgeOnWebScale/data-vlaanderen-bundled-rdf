@@ -4501,94 +4501,94 @@
     shacl:targetClass xsd:anyURI.
 <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22#UriShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/ontwerpstandaard/2025-07-22>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ActuatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ActuatieShape> a shacl:NodeShape;
     shacl:targetClass sosa:Actuation.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ActuatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/AgentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ActuatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/EenheidShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#AgentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#EenheidShape> a shacl:NodeShape;
     shacl:targetClass <http://qudt.org/2.1/schema/qudt/Unit>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/EenheidShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiebestrijdingsmaatregelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#EenheidShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiebestrijdingsmaatregelShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/erosiepoel#Erosiebestrijdingsmaatregel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiebestrijdingsmaatregelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiebestrijdingsmaatregelonderdeelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiebestrijdingsmaatregelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiebestrijdingsmaatregelonderdeelShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/erosiepoel#Erosiebestrijdingsmaatregelonderdeel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiebestrijdingsmaatregelonderdeelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiepoelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiebestrijdingsmaatregelonderdeelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiepoelShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/erosiepoel#Erosiepoel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiepoelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiepoelonderdeelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiepoelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiepoelonderdeelShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/erosiepoel#Erosiepoelonderdeel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ErosiepoelonderdeelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/FeatureOfInterestShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ErosiepoelonderdeelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#FeatureOfInterestShape> a shacl:NodeShape;
     shacl:targetClass sosa:FeatureOfInterest.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/FeatureOfInterestShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/GeobserveerdkenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#FeatureOfInterestShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#GeobserveerdkenmerkShape> a shacl:NodeShape;
     shacl:targetClass sosa:ObservableProperty.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/GeobserveerdkenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/GraszoneShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#GeobserveerdkenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#GraszoneShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/erosiepoel#Graszone>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/GraszoneShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/HoeveelheidShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#GraszoneShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#HoeveelheidShape> a shacl:NodeShape;
     shacl:targetClass <http://qudt.org/schema/qudt/Quantity>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/HoeveelheidShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/HoeveelheidtypeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#HoeveelheidShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#HoeveelheidtypeShape> a shacl:NodeShape;
     shacl:targetClass <http://qudt.org/schema/qudt/QuantityKind>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/HoeveelheidtypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/KwantitatievewaardeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#HoeveelheidtypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#KwantitatievewaardeShape> a shacl:NodeShape;
     shacl:targetClass <http://qudt.org/schema/qudt/QuantityValue>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/KwantitatievewaardeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/LocatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#KwantitatievewaardeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#LocatieShape> a shacl:NodeShape;
     shacl:targetClass prov:Location.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/LocatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/NumeriekeunieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#LocatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#NumeriekeunieShape> a shacl:NodeShape;
     shacl:targetClass <http://www.linkedmodel.org/schema/dtype#numericUnion>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/NumeriekeunieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ObservatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#NumeriekeunieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ObservatieShape> a shacl:NodeShape;
     shacl:targetClass sosa:Observation.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ObservatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/OnderhoudShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ObservatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#OnderhoudShape> a shacl:NodeShape;
     shacl:targetClass generiek:Onderhoud.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/OnderhoudShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/OnderhoudstaakShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#OnderhoudShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#OnderhoudstaakShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/OnderhoudstaakShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/PlatformShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#OnderhoudstaakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#PlatformShape> a shacl:NodeShape;
     shacl:targetClass sosa:Platform.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/PlatformShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ResultaatShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#PlatformShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ResultaatShape> a shacl:NodeShape;
     shacl:targetClass sosa:Result.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ResultaatShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/SensorShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ResultaatShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#SensorShape> a shacl:NodeShape;
     shacl:targetClass sosa:Sensor.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/SensorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ZoneShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#SensorShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ZoneShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/erosiepoel#Zone>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07/ZoneShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/kandidaatstandaard/2025-05-07>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23#ZoneShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/erkendestandaard/2025-07-23>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/fietsinfrastructuur/kandidaatstandaard/2025-03-05/AdresShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/adres#Adres>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/fietsinfrastructuur/kandidaatstandaard/2025-03-05> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/fietsinfrastructuur/kandidaatstandaard/2025-03-05/AdresShape>.
