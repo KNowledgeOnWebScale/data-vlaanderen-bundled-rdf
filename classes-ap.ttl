@@ -6225,9 +6225,17 @@
     shacl:targetClass dcterms:Agent.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#AgentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#BrontypeShape> a shacl:NodeShape;
+    shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#BronType>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#BrontypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#CompetentieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#Competentie>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#CompetentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#CompetentietypeShape> a shacl:NodeShape;
+    shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#CompetentieType>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#CompetentietypeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#CreatiefwerkShape> a shacl:NodeShape;
     shacl:targetClass schemas:CreativeWork.
@@ -6253,9 +6261,17 @@
     shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#DoelType>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#DoeltypeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#FloatShape> a shacl:NodeShape;
+    shacl:targetClass xsd:float.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#FloatShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#FormaattypeShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#FormaatType>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#FormaattypeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#IdentificatorShape> a shacl:NodeShape;
+    shacl:targetClass adms:Identifier.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#IdentificatorShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#InteractietypeShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#InteractieType>.
@@ -6268,6 +6284,10 @@
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#LangstringShape> a shacl:NodeShape;
     shacl:targetClass rdf:langString.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#LangstringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#LeeftijdstypeShape> a shacl:NodeShape;
+    shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#LeeftijdsType>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#LeeftijdstypeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#LeeractiviteitShape> a shacl:NodeShape;
     shacl:targetClass elm:LearningActivity.
@@ -6329,9 +6349,9 @@
     shacl:targetClass <https://www.w3.org/TR/owl-time/#time:Duration>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#TijdsduurShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#UriShape> a shacl:NodeShape;
-    shacl:targetClass xsd:anyURI.
-<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#UriShape>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#ToegankelijkheidtypeShape> a shacl:NodeShape;
+    shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#ToegankelijkheidType>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21#ToegankelijkheidtypeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/ontwerpstandaard/2025-03-21>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leerprestatiecredential/kandidaatstandaard/2023-12-21#AccreditatieShape> a shacl:NodeShape;
     shacl:targetClass elm:Accreditation.
