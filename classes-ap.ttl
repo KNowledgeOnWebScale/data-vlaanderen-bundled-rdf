@@ -6321,9 +6321,9 @@
     shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#OnderwerpType>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01#OnderwerptypeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01#OnderwijsniveauShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#Onderwijsniveau>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01#OnderwijsniveauShape>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01#OpleidingsniveautypeShape> a shacl:NodeShape;
+    shacl:targetClass <https://data.vlaanderen.be/ns/leermiddelen#OpleidingsniveauType>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01#OpleidingsniveautypeShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen/kandidaatstandaard/2025-08-01#PeriodeShape> a shacl:NodeShape;
     shacl:targetClass m8g:PeriodOfTime.
