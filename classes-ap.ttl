@@ -5881,14 +5881,6 @@
     shacl:targetClass dcterms:LicenseDocument.
 <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#LicentieDocumentShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#LiteralShape> a shacl:NodeShape;
-    shacl:targetClass rdfs:Literal.
-<https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#LiteralShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#LiteralVoorTijdsinformatieShape> a shacl:NodeShape;
-    shacl:targetClass rdfs:Literal.
-<https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#LiteralVoorTijdsinformatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#PlaatsShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Location.
 <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16#PlaatsShape>.
