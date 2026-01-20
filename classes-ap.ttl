@@ -21,170 +21,98 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#>.
 @prefix water: <https://purl.eu/ns/air-and-water/water#>.
 
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#AgentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#CatalogusRecordShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#AgentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusRecordShape> a shacl:NodeShape;
     shacl:targetClass dcat:CatalogRecord.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#CatalogusRecordShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#CatalogusResourceShape> a shacl:NodeShape;
-    shacl:targetClass <http://data.vlaanderen.be/ns/metadata-dcat#RelatieQualificatie.catalogusResource.target>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#CatalogusResourceShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#CatalogusShape> a shacl:NodeShape;
-    shacl:targetClass dcat:Catalog.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#CatalogusShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#ContactInfoShape> a shacl:NodeShape;
-    shacl:targetClass schema:ContactPoint.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#ContactInfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#ContactinfoShape> a shacl:NodeShape;
-    shacl:targetClass <http://www.w3.org/2006/vcard/ns#Kind>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#ContactinfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#DataServiceShape> a shacl:NodeShape;
-    shacl:targetClass dcat:DataService.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#DataServiceShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#DatasetShape> a shacl:NodeShape;
-    shacl:targetClass dcat:Dataset.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#DatasetShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#DistributieShape> a shacl:NodeShape;
-    shacl:targetClass dcat:Distribution.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#DistributieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#HerkomstVerklaringShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:ProvenanceStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#HerkomstVerklaringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#IdentificatorShape> a shacl:NodeShape;
-    shacl:targetClass adms:Identifier.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#IdentificatorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#JuridischeBepalingShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:RightsStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#JuridischeBepalingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#LicentieDocumentShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:LicenseDocument.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#LicentieDocumentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#PlaatsShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:Location.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#PlaatsShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#RelatieQualificatieShape> a shacl:NodeShape;
-    shacl:targetClass dcat:Relationship.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#RelatieQualificatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#StandaardShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:Standard.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#StandaardShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#URiShape> a shacl:NodeShape;
-    shacl:targetClass rdfs:Resource.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#URiShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#VoorbeeldWeergaveShape> a shacl:NodeShape;
-    shacl:targetClass dcat:Distribution.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21#VoorbeeldWeergaveShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2022-04-21>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#AgentShape> a shacl:NodeShape;
-    shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#CatalogusRecordShape> a shacl:NodeShape;
-    shacl:targetClass dcat:CatalogRecord.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#CatalogusRecordShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#CatalogusResourceShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusRecordShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusResourceShape> a shacl:NodeShape;
     shacl:targetClass dcat:Resource.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#CatalogusResourceShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#CatalogusShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusResourceShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusShape> a shacl:NodeShape;
     shacl:targetClass dcat:Catalog.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#CatalogusShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#ContactinfoShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactinfoShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/vcard/ns#Kind>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#ContactinfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#ContactpuntShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactinfoShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactpuntShape> a shacl:NodeShape;
     shacl:targetClass schema:ContactPoint.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#ContactpuntShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DataserviceShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactpuntShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DataserviceShape> a shacl:NodeShape;
     shacl:targetClass dcat:DataService.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DataserviceShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DatasetSerieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DataserviceShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetSerieShape> a shacl:NodeShape;
     shacl:targetClass dcat:DatasetSeries.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DatasetSerieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DatasetShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetSerieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetShape> a shacl:NodeShape;
     shacl:targetClass dcat:Dataset.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DatasetShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DatetimeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatetimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:dateTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DatetimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DistributieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatetimeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DistributieShape> a shacl:NodeShape;
     shacl:targetClass dcat:Distribution.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#DistributieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#FrequentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DistributieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#FrequentieShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Frequency.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#FrequentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#HerkomstVerklaringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#FrequentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#HerkomstVerklaringShape> a shacl:NodeShape;
     shacl:targetClass dcterms:ProvenanceStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#HerkomstVerklaringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#IdentificatorShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#HerkomstVerklaringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#IdentificatorShape> a shacl:NodeShape;
     shacl:targetClass adms:Identifier.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#IdentificatorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#JuridischeBepalingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#IdentificatorShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#JuridischeBepalingShape> a shacl:NodeShape;
     shacl:targetClass dcterms:RightsStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#JuridischeBepalingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#LicentieDocumentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#JuridischeBepalingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#LicentieDocumentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:LicenseDocument.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#LicentieDocumentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#PlaatsShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#LicentieDocumentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#PlaatsShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Location.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#PlaatsShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#RechtsgrondShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#PlaatsShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RechtsgrondShape> a shacl:NodeShape;
     shacl:targetClass <http://data.europa.eu/eli/ontology#LegalResource>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#RechtsgrondShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#RelatieQualificatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RechtsgrondShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RelatieQualificatieShape> a shacl:NodeShape;
     shacl:targetClass dcat:Relationship.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#RelatieQualificatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#StandaardShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RelatieQualificatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StandaardShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Standard.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#StandaardShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#StringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StandaardShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StringShape> a shacl:NodeShape;
     shacl:targetClass xsd:string.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#StringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#TijdsperiodeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#TijdsperiodeShape> a shacl:NodeShape;
     shacl:targetClass dcterms:PeriodOfTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#TijdsperiodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#VoorbeeldweergaveShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#TijdsperiodeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#VoorbeeldweergaveShape> a shacl:NodeShape;
     shacl:targetClass dcat:Distribution.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09#VoorbeeldweergaveShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#VoorbeeldweergaveShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
 <https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09#AgentShape>.
