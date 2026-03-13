@@ -21,98 +21,98 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#>.
 @prefix water: <https://purl.eu/ns/air-and-water/water#>.
 
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#AgentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusRecordShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#AgentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#CatalogusRecordShape> a shacl:NodeShape;
     shacl:targetClass dcat:CatalogRecord.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusRecordShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusResourceShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#CatalogusRecordShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#CatalogusResourceShape> a shacl:NodeShape;
     shacl:targetClass dcat:Resource.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusResourceShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#CatalogusResourceShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#CatalogusShape> a shacl:NodeShape;
     shacl:targetClass dcat:Catalog.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#CatalogusShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactinfoShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#CatalogusShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#ContactinfoShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/vcard/ns#Kind>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactinfoShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactpuntShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#ContactinfoShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#ContactpuntShape> a shacl:NodeShape;
     shacl:targetClass schema:ContactPoint.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#ContactpuntShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DataserviceShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#ContactpuntShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DataserviceShape> a shacl:NodeShape;
     shacl:targetClass dcat:DataService.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DataserviceShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetSerieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DataserviceShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DatasetSerieShape> a shacl:NodeShape;
     shacl:targetClass dcat:DatasetSeries.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetSerieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DatasetSerieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DatasetShape> a shacl:NodeShape;
     shacl:targetClass dcat:Dataset.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatasetShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatetimeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DatasetShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DatetimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:dateTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DatetimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DistributieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DatetimeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DistributieShape> a shacl:NodeShape;
     shacl:targetClass dcat:Distribution.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#DistributieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#FrequentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#DistributieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#FrequentieShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Frequency.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#FrequentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#HerkomstVerklaringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#FrequentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#HerkomstVerklaringShape> a shacl:NodeShape;
     shacl:targetClass dcterms:ProvenanceStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#HerkomstVerklaringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#IdentificatorShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#HerkomstVerklaringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#IdentificatorShape> a shacl:NodeShape;
     shacl:targetClass adms:Identifier.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#IdentificatorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#JuridischeBepalingShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#IdentificatorShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#JuridischeBepalingShape> a shacl:NodeShape;
     shacl:targetClass dcterms:RightsStatement.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#JuridischeBepalingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#LicentieDocumentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#JuridischeBepalingShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#LicentieDocumentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:LicenseDocument.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#LicentieDocumentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#PlaatsShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#LicentieDocumentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#PlaatsShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Location.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#PlaatsShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RechtsgrondShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#PlaatsShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#RechtsgrondShape> a shacl:NodeShape;
     shacl:targetClass <http://data.europa.eu/eli/ontology#LegalResource>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RechtsgrondShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RelatieQualificatieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#RechtsgrondShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#RelatieQualificatieShape> a shacl:NodeShape;
     shacl:targetClass dcat:Relationship.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#RelatieQualificatieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StandaardShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#RelatieQualificatieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#StandaardShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Standard.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StandaardShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#StandaardShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#StringShape> a shacl:NodeShape;
     shacl:targetClass xsd:string.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#StringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#TijdsperiodeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#StringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#TijdsperiodeShape> a shacl:NodeShape;
     shacl:targetClass dcterms:PeriodOfTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#TijdsperiodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#VoorbeeldweergaveShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#TijdsperiodeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#VoorbeeldweergaveShape> a shacl:NodeShape;
     shacl:targetClass dcat:Distribution.
-<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/#VoorbeeldweergaveShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12#VoorbeeldweergaveShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2026-02-12>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
 <https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09#AgentShape>.
@@ -8017,266 +8017,246 @@
     shacl:targetClass <https://www.iflastandards.info/fr/frbr/frbroo#F22>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/erkendestandaard/2023-11-09> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/erkendestandaard/2023-11-09#ZelfstandigeExpressieShape>.
 <https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/erkendestandaard/2023-11-09>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#AangelandeeigendommenShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#AangelandeeigendommenShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#AangelandeEigendommen>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#AangelandeeigendommenShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#AgentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#AangelandeeigendommenShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#AgentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BesluitShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#AgentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BesluitShape> a shacl:NodeShape;
     shacl:targetClass <http://data.vlaanderen.be/ns/besluit#Besluit>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BesluitShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwlijnShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BesluitShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwlijnShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Bouwlijn>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwlijnShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwlijnkenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwlijnShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwlijnkenmerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Bouwlijnkenmerk>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwlijnkenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwlijnreferentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwlijnkenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwlijnreferentieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Bouwlijnreferentie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwlijnreferentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwverbodShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwlijnreferentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwverbodShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Bouwverbod>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#BouwverbodShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ConceptShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#BouwverbodShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ConceptShape> a shacl:NodeShape;
     shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ConceptShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#CurveShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ConceptShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#CurveShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#Curve>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#CurveShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DateShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#CurveShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#DateShape> a shacl:NodeShape;
     shacl:targetClass xsd:date.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DateShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DatetimeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#DateShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#DatetimeShape> a shacl:NodeShape;
     shacl:targetClass xsd:dateTime.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DatetimeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DocumentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#DatetimeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#DocumentShape> a shacl:NodeShape;
     shacl:targetClass foaf:Document.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#DocumentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#EenheidShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#DocumentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#EenheidShape> a shacl:NodeShape;
     shacl:targetClass <https://qudt.org/schema/qudt/Unit>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#EenheidShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeenbouwverbodShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#EenheidShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeenbouwverbodShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#GeenBouwverbod>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeenbouwverbodShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeldbedragShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeenbouwverbodShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeldbedragShape> a shacl:NodeShape;
     shacl:targetClass schemas:MonetaryAmount.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeldbedragShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeneriekecurveShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeldbedragShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeneriekecurveShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/gml#AbstractCurve>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeneriekecurveShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeneriekvlakShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeneriekecurveShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeneriekvlakShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/gml#AbstractSurface>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeneriekvlakShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeometrieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeneriekvlakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeometrieShape> a shacl:NodeShape;
     shacl:targetClass locn:Geometry.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GeometrieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GetroffenoppervlakShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GeometrieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GetroffenoppervlakShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#GetroffenOppervlak>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GetroffenoppervlakShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GrensShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GetroffenoppervlakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GrensShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Grens>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#GrensShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#IdentificatorShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#GrensShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#IdentificatorShape> a shacl:NodeShape;
     shacl:targetClass adms:Identifier.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#IdentificatorShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#KadastraalPatrimoniumperceelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#IdentificatorShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#KadastraalPatrimoniumperceelShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/perceel#KadastraalPatrimoniumperceel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#KadastraalPatrimoniumperceelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#KadastraalPlanperceelShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#KadastraalPatrimoniumperceelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#KadastraalPlanperceelShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/perceel#KadastraalPlanperceel>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#KadastraalPlanperceelShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#KwantitatievewaardeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#KadastraalPlanperceelShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#KwantitatievewaardeShape> a shacl:NodeShape;
     shacl:targetClass schemas:QuantitativeValue.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#KwantitatievewaardeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LangstringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#KwantitatievewaardeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LangstringShape> a shacl:NodeShape;
     shacl:targetClass rdf:langString.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LangstringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LegaleVerschijningsvormShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LangstringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LegaleVerschijningsvormShape> a shacl:NodeShape;
     shacl:targetClass <http://data.europa.eu/eli/ontology#LegalExpression>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LegaleVerschijningsvormShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LegaleVerschijningsvormShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LijnShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#Curve>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnkenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LijnShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LijnkenmerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Lijnkenmerk>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnkenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnkenmerktypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnkenmerktypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnstringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LijnkenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LijnstringShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#LineString>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LijnstringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LineairereferentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LijnstringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LineairereferentieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/netwerk#LineaireReferentie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#LineairereferentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MomentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#LineairereferentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MomentShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#Instant>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MomentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MulticurveShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MomentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MulticurveShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/gml#MultiCurve>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MulticurveShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MultilijnstringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MulticurveShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MultilijnstringShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#MultiLineString>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MultilijnstringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MultipolygoonShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MultilijnstringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MultipolygoonShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#MultiLineString>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MultipolygoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MultivlakShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MultipolygoonShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MultivlakShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/gml#MultiSurface>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#MultivlakShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#NustvoorzieningnetwerkelementShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#MultivlakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#NustvoorzieningnetwerkelementShape> a shacl:NodeShape;
     shacl:targetClass <https://vocab.belgif.be/ns/utility-services#UtilityNetworkElement>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#NustvoorzieningnetwerkelementShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ObjectreferentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#NustvoorzieningnetwerkelementShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ObjectreferentieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Objectreferentie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ObjectreferentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#OmgevingsvergunningShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ObjectreferentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#OmgevingsvergunningShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Omgevingsvergunning>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#OmgevingsvergunningShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#OpenbarewegShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#OmgevingsvergunningShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#OpenbarewegShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#OpenbareWeg>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#OpenbarewegShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#OpenbarewegreferentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#OpenbarewegShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#OpenbarewegreferentieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#OpenbareWegreferentie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#OpenbarewegreferentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PerceelreferentieShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#OpenbarewegreferentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PerceelreferentieShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Perceelreferentie>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PerceelreferentieShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PeriodeShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PerceelreferentieShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PeriodeShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#ProperInterval>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PeriodeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PlanShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PeriodeShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PlanShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Plan>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PlanShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PlanelementShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PlanShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PlanelementShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Planelement>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PlanelementShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PlantypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PlantypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PolygoonShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PlanelementShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PolygoonShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/sf#Polygon>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#PolygoonShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#PolygoonShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijn>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnkenmerkShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnkenmerkShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijnkenmerk>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnkenmerkShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplanShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnkenmerkShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnplanShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijnplan>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplanShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplaninventarisShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnplanShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnplaninventarisShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Rooilijnplaninventaris>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijnplaninventarisShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijntypeShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RooilijntypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RuimtelijkeEenheidShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RooilijnplaninventarisShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RuimtelijkeEenheidShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/perceel#RuimtelijkeEenheid>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RuimtelijkeEenheidShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RuimtelijkuitvoeringsplanShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RuimtelijkeEenheidShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RuimtelijkuitvoeringsplanShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#RuimtelijkUitvoeringsplan>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#RuimtelijkuitvoeringsplanShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#StatusShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#RuimtelijkuitvoeringsplanShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#StatusShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Status>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#StatusShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#StatustypeShape> a shacl:NodeShape;
-    shacl:targetClass <https://data.vlaanderen.be/ns/rooilijn#Statustype>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#StatustypeShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#StringShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#StatusShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#StringShape> a shacl:NodeShape;
     shacl:targetClass xsd:string.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#StringShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#TemporeleentiteitShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#StringShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#TemporeleentiteitShape> a shacl:NodeShape;
     shacl:targetClass <http://www.w3.org/2006/time#TemporalEntity>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#TemporeleentiteitShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ToepassingsrichtingShape> a shacl:NodeShape;
-    shacl:targetClass skos:Concept.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ToepassingsrichtingShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ValutaShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#TemporeleentiteitShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ValutaShape> a shacl:NodeShape;
     shacl:targetClass <http://qudt.org/schema/qudt/CurrencyUnit>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ValutaShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#VergunningShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ValutaShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#VergunningShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/omgevingsvergunning#Vergunning>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#VergunningShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#VlakShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#VergunningShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#VlakShape> a shacl:NodeShape;
     shacl:targetClass <http://www.opengis.net/ont/geosparql#Surface>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#VlakShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#WegbaanShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#VlakShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#WegbaanShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/openbaardomein/terreindeel#Wegbaan>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#WegbaanShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#WegsegmentShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#WegbaanShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#WegsegmentShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/weg#Wegsegment>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#WegsegmentShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ZakelijkrechtShape> a shacl:NodeShape;
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#WegsegmentShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ZakelijkrechtShape> a shacl:NodeShape;
     shacl:targetClass <https://data.vlaanderen.be/ns/perceel#ZakelijkRecht>.
-<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01#ZakelijkrechtShape>.
-<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/ontwerpstandaard/2025-06-01>.
+<https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12#ZakelijkrechtShape>.
+<https://data.vlaanderen.be/standaarden/> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/erkendestandaard/2026-02-12>.
 <https://data.vlaanderen.be/doc/applicatieprofiel/ruimtelijke-bereiken/ontwerpstandaard/2024-04-15#AgentShape> a shacl:NodeShape;
     shacl:targetClass dcterms:Agent.
 <https://data.vlaanderen.be/doc/applicatieprofiel/ruimtelijke-bereiken/ontwerpstandaard/2024-04-15> rdfs:member <https://data.vlaanderen.be/doc/applicatieprofiel/ruimtelijke-bereiken/ontwerpstandaard/2024-04-15#AgentShape>.
